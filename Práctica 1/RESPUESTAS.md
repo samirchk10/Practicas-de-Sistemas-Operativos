@@ -104,6 +104,7 @@ int main(int argc, char** argv)
     return 0;
 }
 ```
+Extender el código anterior para crear 50 procesos hijos. Cada proceso hijo tiene que imprimir su timestamp y terminar. El proceso padre deberá esperar la finalización de todos los procesos hijos y, solo entonces, terminar.
 
 **e) ¿Qué se observa en los resultados al ejecutar varias veces el programa?**
 
