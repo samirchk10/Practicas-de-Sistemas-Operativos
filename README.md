@@ -13,7 +13,7 @@ Prácticas de la asignatura **Sistemas Operativos** del grado en Ingeniería Inf
 
 ## Prácticas
 
-### [Práctica 1: Procesos](./Practica%201)
+### [Práctica 1: Procesos](./Práctica 1)
 
 Estudio completo del ciclo de vida de los procesos en Unix, culminando en la implementación de un **mini-shell** propio. Incluye:
 
