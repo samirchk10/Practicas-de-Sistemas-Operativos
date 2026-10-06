@@ -66,7 +66,7 @@ wait: No child processes
   - Añadir `sleep(1)` en el padre justo antes del `printf()`. Así vemos que el hijo sí puede ejecutarse antes que el padre:
 
 ```
-    samirchanna Sistemes Operatius/Practicas/Practica 1 ❯ ./exemple1
+    Sistemas Operativos/Practicas/Práctica 1 ❯ ./exemple1
     [2026:10:06 21:36:16:670474] Child process  (PID=15518)
     [2026:10:06 21:36:17:670776] Father process (PID=15517)
 ```
