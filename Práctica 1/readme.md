@@ -2,7 +2,7 @@
 
 Estudio del ciclo de vida de los procesos en Unix mediante llamadas al sistema POSIX en C: creación, concurrencia, memoria, comunicación entre procesos, procesos huérfanos y zombies, y ejecución de programas. La práctica termina con la implementación de un **mini-shell** propio.
 
-📄 Las respuestas completas a las preguntas de la práctica están en [RESPUESTAS.md](./RESPUESTAS.md).
+Las respuestas completas a las preguntas de la práctica están en [RESPUESTAS.md](./RESPUESTAS.md).
 
 ## Contenido
 
